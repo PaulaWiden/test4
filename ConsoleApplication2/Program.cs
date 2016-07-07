@@ -11,7 +11,9 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine(2#"13);
             Console.WriteLine(""#¤!"");
+            
         }
     }
 }
